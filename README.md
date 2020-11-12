@@ -1,1 +1,1 @@
-# django_social_app
+# django social app
